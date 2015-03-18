@@ -1,0 +1,1 @@
+# qt-plotting-icons
