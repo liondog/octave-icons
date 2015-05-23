@@ -50,18 +50,22 @@
          id="stop6342" />
       <stop
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         style="stop-color:#ffffff;stop-opacity:0.6"
          id="stop6344" />
     </linearGradient>
     <linearGradient
        id="linearGradient3600-4">
       <stop
          id="stop3602-7"
-         style="stop-color:#f4f4f4;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="0" />
       <stop
+         offset="0.5930329"
+         style="stop-color:#fcfdfe;stop-opacity:1"
+         id="stop8523" />
+      <stop
          id="stop3604-6"
-         style="stop-color:#dbdbdb;stop-opacity:1"
+         style="stop-color:#e7ecf7;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -101,15 +105,6 @@
          style="stop-color:#000000;stop-opacity:0"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3600-4"
-       id="linearGradient6474"
-       gradientUnits="userSpaceOnUse"
-       x1="10.000001"
-       y1="1032.3622"
-       x2="10.000001"
-       y2="1049.3622" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3104-5"
@@ -172,6 +167,17 @@
        y1="1032.2997"
        x2="11.4375"
        y2="1048.4247" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3600-4"
+       id="radialGradient8519"
+       cx="6.8718562"
+       cy="1037.962"
+       fx="6.8718562"
+       fy="1037.962"
+       r="10.000001"
+       gradientTransform="matrix(1.2031696,1.2031696,-1.2031696,1.2031696,1246.5764,-221.75023)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -180,12 +186,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9999996"
-     inkscape:cx="-7.3458293"
-     inkscape:cy="-3.6402037"
+     inkscape:zoom="16"
+     inkscape:cx="10.831375"
+     inkscape:cy="4.8435583"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      units="px"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -235,20 +241,20 @@
          d="m 21.000001,1049.3623 c 0,0 0,1.9999 0,1.9999 0.806614,0 1.950002,-0.4481 1.950002,-1.0001 0,-0.552 -0.900122,-0.9998 -1.950002,-0.9998 z" />
     </g>
     <rect
-       style="opacity:1;fill:url(#linearGradient6474);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient6476);stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:url(#radialGradient8519);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient6476);stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6460"
        width="19.000002"
        height="19.000017"
        x="2.5000007"
        y="1030.8622"
-       ry="0"
+       ry="1.5000176"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        transform="matrix(0,1,-1,0,0,0)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       ry="0"
+       ry="0.50000834"
        y="-20.50001"
        x="1031.8622"
        height="17.000019"
