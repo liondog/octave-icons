@@ -97,7 +97,7 @@
        fx="5.4989986"
        fy="1039.1906"
        r="8.9999743"
-       gradientTransform="matrix(-0.78731664,0.78732031,-0.86409428,-0.86409026,912.59333,1928.0727)"
+       gradientTransform="matrix(-0.70001504,0.70001504,-0.76827561,-0.76827561,812.53941,1828.9831)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient9980"
@@ -137,35 +137,6 @@
          offset="1"
          style="stop-color:#b85e16;stop-opacity:1" />
     </linearGradient>
-    <linearGradient
-       x1="302.85715"
-       y1="366.64789"
-       x2="302.85715"
-       y2="609.50507"
-       id="linearGradient4218-8"
-       xlink:href="#linearGradient5048"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.00621302,0,0,0.00823529,2.2544378,1046.3426)" />
-    <radialGradient
-       cx="605.71429"
-       cy="486.64789"
-       r="117.14286"
-       fx="605.71429"
-       fy="486.64789"
-       id="radialGradient3048-2-7"
-       xlink:href="#linearGradient5060"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.01606478,0,0,0.00823529,12.681608,1046.3428)" />
-    <radialGradient
-       cx="605.71429"
-       cy="486.64789"
-       r="117.14286"
-       fx="605.71429"
-       fy="486.64789"
-       id="radialGradient3045-5-8"
-       xlink:href="#linearGradient5060"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.01606478,0,0,0.00823529,-3.681609,1046.3427)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4370"
@@ -274,12 +245,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="6.0608955"
-     inkscape:cy="-11.770544"
+     inkscape:zoom="1"
+     inkscape:cx="0.059627325"
+     inkscape:cy="6.291111"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      units="px"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -299,7 +270,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -329,7 +300,7 @@
          d="m 15,1047.3623 c 0,0 0,1.9999 0,1.9999 0.827296,0 2,-0.4481 2,-1.0001 0,-0.552 -0.923201,-0.9998 -2,-0.9998 z" />
     </g>
     <path
-       style="fill:url(#radialGradient13663);fill-opacity:1.0;fill-rule:evenodd;stroke:url(#linearGradient9246-1);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:url(#radialGradient13663);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient9246-1);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
        d="m 8.50005,1032.8622 0,15 13,-7.5 z"
        id="path9188-8"
        inkscape:connector-curvature="0"
